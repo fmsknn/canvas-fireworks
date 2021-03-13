@@ -1,4 +1,5 @@
 # canvas fireworks
-* [Demo](https://fmsknn.github.io/canvas-fireworks) 
- 
+
+- [Demo](https://masakifukunishi.github.io/canvas-fireworks)
+
 Click to see fireworks
